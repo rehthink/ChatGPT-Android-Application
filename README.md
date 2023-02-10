@@ -3,7 +3,7 @@ Introduction:
 
 OpenAI's GPT-3 is a state-of-the-art language model that has been trained on a massive amount of data, making it capable of generating human-like text. In this blog, we will see how we can utilize the OpenAI API to build a ChatGPT Android Application using the MVVM architecture pattern. This repository on GitHub provides the code for a simple chatbot application that utilizes OpenAI's API to generate responses to user inputs.
 
-#Step 1: Setting up the Project
+# Step 1: Setting up the Project
 
 To get started, we need to create a new Android Studio project and add the required dependencies to build.gradle file. This repository uses the following dependencies:
 
